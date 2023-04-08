@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v7.0": {
       "BulkyWeb/1.0.0": {
         "dependencies": {
+          "Bulky.DataAccess": "1.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.0-preview.2.23128.3",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0-preview.2.23128.3",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.0-preview.2.23128.3"
@@ -630,6 +631,22 @@
             "fileVersion": "6.0.21.52210"
           }
         }
+      },
+      "Bulky.DataAccess/1.0.0": {
+        "dependencies": {
+          "Bulky.Models": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "8.0.0-preview.2.23128.3",
+          "Microsoft.EntityFrameworkCore.Relational": "8.0.0-preview.2.23128.3",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0-preview.2.23128.3"
+        },
+        "runtime": {
+          "Bulky.DataAccess.dll": {}
+        }
+      },
+      "Bulky.Models/1.0.0": {
+        "runtime": {
+          "Bulky.Models.dll": {}
+        }
       }
     }
   },
@@ -1058,6 +1075,16 @@
       "sha512": "sha512-IXoJOXIqc39AIe+CIR7koBtRGMiCt/LPM3lI+PELtDIy9XdyeSrwXFdWV9dzJ2Awl0paLWUaknLxFQ5HpHZUog==",
       "path": "system.windows.extensions/6.0.0",
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
+    },
+    "Bulky.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bulky.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

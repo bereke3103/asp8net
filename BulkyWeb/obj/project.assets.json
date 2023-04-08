@@ -1053,6 +1053,32 @@
             "rid": "win"
           }
         }
+      },
+      "Bulky.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Bulky.Models": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "8.0.0-preview.2.23128.3",
+          "Microsoft.EntityFrameworkCore.Relational": "8.0.0-preview.2.23128.3",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0-preview.2.23128.3"
+        },
+        "compile": {
+          "bin/placeholder/Bulky.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bulky.DataAccess.dll": {}
+        }
+      },
+      "Bulky.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Bulky.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bulky.Models.dll": {}
+        }
       }
     }
   },
@@ -2902,10 +2928,21 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Bulky.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../Bulky.DataAccess/Bulky.DataAccess.csproj",
+      "msbuildProject": "../Bulky.DataAccess/Bulky.DataAccess.csproj"
+    },
+    "Bulky.Models/1.0.0": {
+      "type": "project",
+      "path": "../Bulky.Models/Bulky.Models.csproj",
+      "msbuildProject": "../Bulky.Models/Bulky.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Bulky.DataAccess >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.0-preview.2.23128.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.0-preview.2.23128.3",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.0-preview.2.23128.3"
@@ -2942,7 +2979,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\berek\\OneDrive\\Рабочий стол\\c#Tutorial\\NE8UdemyAspCore\\BulkyWeb\\Bulky.DataAccess\\Bulky.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\berek\\OneDrive\\Рабочий стол\\c#Tutorial\\NE8UdemyAspCore\\BulkyWeb\\Bulky.DataAccess\\Bulky.DataAccess.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

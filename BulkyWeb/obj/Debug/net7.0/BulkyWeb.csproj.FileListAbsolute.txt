@@ -85,3 +85,7 @@ C:\Users\berek\OneDrive\Рабочий стол\c#Tutorial\NE8UdemyAspCore\Bulky
 C:\Users\berek\OneDrive\Рабочий стол\c#Tutorial\NE8UdemyAspCore\BulkyWeb\BulkyWeb\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
 C:\Users\berek\OneDrive\Рабочий стол\c#Tutorial\NE8UdemyAspCore\BulkyWeb\BulkyWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\berek\OneDrive\Рабочий стол\c#Tutorial\NE8UdemyAspCore\BulkyWeb\BulkyWeb\obj\Debug\net7.0\BulkyWeb.csproj.CopyComplete
+C:\Users\berek\OneDrive\Рабочий стол\c#Tutorial\NE8UdemyAspCore\BulkyWeb\BulkyWeb\bin\Debug\net7.0\Bulky.DataAccess.dll
+C:\Users\berek\OneDrive\Рабочий стол\c#Tutorial\NE8UdemyAspCore\BulkyWeb\BulkyWeb\bin\Debug\net7.0\Bulky.Models.dll
+C:\Users\berek\OneDrive\Рабочий стол\c#Tutorial\NE8UdemyAspCore\BulkyWeb\BulkyWeb\bin\Debug\net7.0\Bulky.DataAccess.pdb
+C:\Users\berek\OneDrive\Рабочий стол\c#Tutorial\NE8UdemyAspCore\BulkyWeb\BulkyWeb\bin\Debug\net7.0\Bulky.Models.pdb
