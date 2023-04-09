@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hJNGqZEJafTdvfaYaF6sV3yH1MtI518joF2RSGNYw3U=",
+  "Hash": "ju95iVc7PsoP1lAq8VrYvpbM3w2MQqCw+XaKbLY3T4s=",
   "Source": "BulkyWeb",
   "BasePath": "_content/BulkyWeb",
   "Mode": "Default",
@@ -85,12 +85,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\berek\\OneDrive\\Рабочий стол\\c#Tutorial\\NE8UdemyAspCore\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\product\\d0ca5d5f-9bfb-486b-b58f-f5a3999c06d2.jpg",
+      "Identity": "C:\\Users\\berek\\OneDrive\\Рабочий стол\\c#Tutorial\\NE8UdemyAspCore\\BulkyWeb\\BulkyWeb\\wwwroot\\js\\product.js",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\berek\\OneDrive\\Рабочий стол\\c#Tutorial\\NE8UdemyAspCore\\BulkyWeb\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
-      "RelativePath": "images/product/d0ca5d5f-9bfb-486b-b58f-f5a3999c06d2.jpg",
+      "RelativePath": "js/product.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,7 +99,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\d0ca5d5f-9bfb-486b-b58f-f5a3999c06d2.jpg"
+      "OriginalItemSpec": "wwwroot\\js\\product.js"
     },
     {
       "Identity": "C:\\Users\\berek\\OneDrive\\Рабочий стол\\c#Tutorial\\NE8UdemyAspCore\\BulkyWeb\\BulkyWeb\\wwwroot\\js\\site.js",
