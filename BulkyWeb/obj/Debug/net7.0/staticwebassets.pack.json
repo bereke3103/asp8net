@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\berek\\OneDrive\\Рабочий стол\\c#Tutorial\\NE8UdemyAspCore\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\product\\d0ca5d5f-9bfb-486b-b58f-f5a3999c06d2.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\d0ca5d5f-9bfb-486b-b58f-f5a3999c06d2.jpg"
+    },
+    {
       "Id": "C:\\Users\\berek\\OneDrive\\Рабочий стол\\c#Tutorial\\NE8UdemyAspCore\\BulkyWeb\\BulkyWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
