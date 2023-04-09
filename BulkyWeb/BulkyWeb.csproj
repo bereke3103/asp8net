@@ -20,9 +20,4 @@
     <ProjectReference Include="..\Bulky.DataAccess\Bulky.DataAccess.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Views\Category\" />
-    <Folder Include="Views\Home\" />
-  </ItemGroup>
-
 </Project>
