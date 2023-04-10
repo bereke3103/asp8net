@@ -13,6 +13,30 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\berek\\OneDrive\\Рабочий стол\\c#Tutorial\\NE8UdemyAspCore\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\product\\23339a55-6c5b-4928-afc4-0de5f9291871.png",
+      "PackagePath": "staticwebassets\\images\\product\\23339a55-6c5b-4928-afc4-0de5f9291871.png"
+    },
+    {
+      "Id": "C:\\Users\\berek\\OneDrive\\Рабочий стол\\c#Tutorial\\NE8UdemyAspCore\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\product\\2daac405-abc1-4ec7-9479-a202405c0f76.png",
+      "PackagePath": "staticwebassets\\images\\product\\2daac405-abc1-4ec7-9479-a202405c0f76.png"
+    },
+    {
+      "Id": "C:\\Users\\berek\\OneDrive\\Рабочий стол\\c#Tutorial\\NE8UdemyAspCore\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\product\\36431f2a-bac5-484a-adfd-d6b74de62457.png",
+      "PackagePath": "staticwebassets\\images\\product\\36431f2a-bac5-484a-adfd-d6b74de62457.png"
+    },
+    {
+      "Id": "C:\\Users\\berek\\OneDrive\\Рабочий стол\\c#Tutorial\\NE8UdemyAspCore\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\product\\8328018c-a556-4a74-80e9-bb63610520a6.png",
+      "PackagePath": "staticwebassets\\images\\product\\8328018c-a556-4a74-80e9-bb63610520a6.png"
+    },
+    {
+      "Id": "C:\\Users\\berek\\OneDrive\\Рабочий стол\\c#Tutorial\\NE8UdemyAspCore\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\product\\863de3b2-9c79-4dee-96df-2a287edf1bb2.png",
+      "PackagePath": "staticwebassets\\images\\product\\863de3b2-9c79-4dee-96df-2a287edf1bb2.png"
+    },
+    {
+      "Id": "C:\\Users\\berek\\OneDrive\\Рабочий стол\\c#Tutorial\\NE8UdemyAspCore\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\product\\ddd429fc-c0d8-4e9c-b658-d2f974ca136b.png",
+      "PackagePath": "staticwebassets\\images\\product\\ddd429fc-c0d8-4e9c-b658-d2f974ca136b.png"
+    },
+    {
       "Id": "C:\\Users\\berek\\OneDrive\\Рабочий стол\\c#Tutorial\\NE8UdemyAspCore\\BulkyWeb\\BulkyWeb\\wwwroot\\js\\product.js",
       "PackagePath": "staticwebassets\\js\\product.js"
     },
