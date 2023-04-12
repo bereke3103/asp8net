@@ -13,12 +13,13 @@
          <form method="post" class="row" enctype="multipart/form-data">
              <input asp-for="Id" hidden/>
              <div class="row">
-                 <div class="col-10">
+                 <div class="col-12">
                       <div class="border p-3">
                 <div class="validation" asp-validation-summary="All"></div>
                     <div class="form-floating py-2 col-12">
-                        <input asp-for="Name" class="form-control border-0 shadow" />
+                        <input asp-for="Name" class="form-control border-0 shadow"/>
                         <label asp-for="Name" class="ms-2" ></label>
+                         <span asp-validation-for="Name" class="text-danger"></span>
                     </div>
 
                     <div class="form-floating py-2 col-12">
@@ -58,7 +59,7 @@
                          <span asp-validation-for="PhoneNumber" class="text-danger"></span>
                     </div>
 
-                    <div class="row mt-3">
+                    <div class="row pt-2">
                         <div class="col-6 col-md-3">
                                 @if (Model.Id != 0)
                                 {

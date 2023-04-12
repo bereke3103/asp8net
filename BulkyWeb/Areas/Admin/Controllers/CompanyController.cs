@@ -40,26 +40,26 @@ namespace BulkyWeb.Areas.Admin.Controllers
 
 
         [HttpPost]
-        public IActionResult Upsert(Company company)
+        public IActionResult Upsert(Company companyObj)
         {
             if (ModelState.IsValid)
             {
-                if (company.Id == 0)
+                if (companyObj.Id == 0)
                 {
-                    _unitOfWork.Company.Add(company);
+                    _unitOfWork.Company.Add(companyObj);
                 }
                 else
                 {
-                    _unitOfWork.Company.Update(company);
+                    _unitOfWork.Company.Update(companyObj);
                 }
 
                 _unitOfWork.Save();
-                TempData["success"] = "Company updated successfully";
+                TempData["success"] = "Company created successfully";
                 return RedirectToAction("Index", "Company");
             }
             else
             {
-                return View(company);
+                return View(companyObj);
             }
 
         }

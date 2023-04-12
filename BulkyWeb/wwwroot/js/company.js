@@ -72,7 +72,7 @@ function loadDataTable() {
             { data: 'city', "width": "5%" },
             { data: 'state', "width": "10%" },
             { data: 'postalCode', "width": "5%" },
-            { data: 'phoneNumber', "width": "5%" },
+            { data: 'phoneNumber', "width": "10%" },
             {
                 data: "id",
                 "render": function (data) {
