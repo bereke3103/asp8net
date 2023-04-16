@@ -2807,6 +2807,23 @@
           }
         }
       },
+      "Stripe.net/41.14.0-beta.2": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3",
+          "System.Configuration.ConfigurationManager": "6.0.0"
+        },
+        "compile": {
+          "lib/net6.0/Stripe.net.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Stripe.net.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "System.AppContext/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -8114,6 +8131,29 @@
         "runtimes/ubuntu.16.10-x64/native/System.Security.Cryptography.Native.OpenSsl.so"
       ]
     },
+    "Stripe.net/41.14.0-beta.2": {
+      "sha512": "h1sWtmpebHhzqVlI/F58yEGZl4PrQ+a2o0d/UKnaMS451gQAlpeVPPqZZBQnlyvToPyaS/9wlWW/Y967ofeYxw==",
+      "type": "package",
+      "path": "stripe.net/41.14.0-beta.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "icon.png",
+        "lib/net461/Stripe.net.dll",
+        "lib/net461/Stripe.net.xml",
+        "lib/net5.0/Stripe.net.dll",
+        "lib/net5.0/Stripe.net.xml",
+        "lib/net6.0/Stripe.net.dll",
+        "lib/net6.0/Stripe.net.xml",
+        "lib/netcoreapp3.1/Stripe.net.dll",
+        "lib/netcoreapp3.1/Stripe.net.xml",
+        "lib/netstandard2.0/Stripe.net.dll",
+        "lib/netstandard2.0/Stripe.net.xml",
+        "stripe.net.41.14.0-beta.2.nupkg.sha512",
+        "stripe.net.nuspec"
+      ]
+    },
     "System.AppContext/4.3.0": {
       "sha512": "fKC+rmaLfeIzUhagxY17Q9siv/sPrjjKcfNg1Ic8IlQkZLipo8ljcaZQu4VtI4Jqbzjc2VTjzGLF6WmsRXAEgA==",
       "type": "package",
@@ -12234,7 +12274,8 @@
       "Microsoft.EntityFrameworkCore >= 8.0.0-preview.2.23128.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.0-preview.2.23128.3",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.0-preview.2.23128.3",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 7.0.5"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 7.0.5",
+      "Stripe.net >= 41.14.0-beta.2"
     ]
   },
   "packageFolders": {
@@ -12313,6 +12354,10 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[7.0.5, )"
+          },
+          "Stripe.net": {
+            "target": "Package",
+            "version": "[41.14.0-beta.2, )"
           }
         },
         "imports": [

@@ -301,3 +301,4 @@ C:\Users\berek\OneDrive\Рабочий стол\c#Tutorial\NE8UdemyAspCore\Bulky
 C:\Users\berek\OneDrive\Рабочий стол\c#Tutorial\NE8UdemyAspCore\BulkyWeb\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
 C:\Users\berek\OneDrive\Рабочий стол\c#Tutorial\NE8UdemyAspCore\BulkyWeb\BulkyWeb\bin\Debug\net7.0\Bulky.Utility.dll
 C:\Users\berek\OneDrive\Рабочий стол\c#Tutorial\NE8UdemyAspCore\BulkyWeb\BulkyWeb\bin\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\berek\OneDrive\Рабочий стол\c#Tutorial\NE8UdemyAspCore\BulkyWeb\BulkyWeb\bin\Debug\net7.0\Stripe.net.dll

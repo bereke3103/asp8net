@@ -23,14 +23,14 @@ namespace BulkyWeb.Areas.Admin.Controllers
 
         public IActionResult Index()
         {
-            List<Product> objProductList = _unitOfWork.Product.GetAll(includeProperties:"Category").ToList();
+            List<Product> objProductList = _unitOfWork.Product.GetAll(includeProperties: "Category").ToList();
 
-            
+
 
             return View(objProductList);
         }
 
-        public IActionResult Upsert(int? id) 
+        public IActionResult Upsert(int? id)
         {
             ProductVM productVM = new ProductVM()
             {
@@ -52,14 +52,14 @@ namespace BulkyWeb.Areas.Admin.Controllers
             {
 
                 //update
-                productVM.Product = _unitOfWork.Product.Get(u=> u.Id == id);
+                productVM.Product = _unitOfWork.Product.Get(u => u.Id == id);
                 return View(productVM);
             }
         }
 
 
         [HttpPost]
-        public IActionResult Upsert(ProductVM productVM, IFormFile? file) 
+        public IActionResult Upsert(ProductVM productVM, IFormFile? file)
         {
             if (ModelState.IsValid)
             {
@@ -157,7 +157,7 @@ namespace BulkyWeb.Areas.Admin.Controllers
         [HttpGet]
         public IActionResult GetAll()
         {
-            List<Product> objProductList = _unitOfWork.Product.GetAll("Category").ToList();
+            List<Product> objProductList = _unitOfWork.Product.GetAll(includeProperties: "Category").ToList();
 
             return Json(new { data = objProductList });
         }
@@ -166,7 +166,7 @@ namespace BulkyWeb.Areas.Admin.Controllers
         [HttpDelete]
         public IActionResult Delete(int? id)
         {
-            var productToBeDeleted = _unitOfWork.Product.Get(u=> u.Id== id);
+            var productToBeDeleted = _unitOfWork.Product.Get(u => u.Id == id);
 
             if (productToBeDeleted == null)
             {

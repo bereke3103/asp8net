@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0DW6hYLEEUawge0As6hbBRzwQC+hdB1Ni1zcxQffDTE=",
+  "Hash": "Wq0sw8kJ/ZrhBCyxyT+iP4ZixNNacNpGlp/YTlSxZEE=",
   "Source": "BulkyWeb",
   "BasePath": "_content/BulkyWeb",
   "Mode": "Default",
@@ -1205,6 +1205,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\product\\ddd429fc-c0d8-4e9c-b658-d2f974ca136b.png"
+    },
+    {
+      "Identity": "C:\\Users\\berek\\OneDrive\\Рабочий стол\\c#Tutorial\\NE8UdemyAspCore\\BulkyWeb\\BulkyWeb\\wwwroot\\images\\succesfuulyy.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\berek\\OneDrive\\Рабочий стол\\c#Tutorial\\NE8UdemyAspCore\\BulkyWeb\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/succesfuulyy.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\succesfuulyy.jpg"
     },
     {
       "Identity": "C:\\Users\\berek\\OneDrive\\Рабочий стол\\c#Tutorial\\NE8UdemyAspCore\\BulkyWeb\\BulkyWeb\\wwwroot\\js\\company.js",
