@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+sGMJLuSCMdpLhF5fNW5B3xUGebNCbsUQuNJVoY5GCLhx8t+spcVyFCM6vVnYNRSLfvgR/1ZMsGTVXETDum8QQ==",
+  "dgSpecHash": "wSN/7LsHwcfDh2TkGqDTVNfwDyCCeptuYABrACehuaHbFeqsQDi4ZUOJFA3yADj3Z5H3FqkUr192mG9kwynX4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\berek\\OneDrive\\Рабочий стол\\c#Tutorial\\NE8UdemyAspCore\\BulkyWeb\\Bulky.Utility\\Bulky.Utility.csproj",
+  "projectFilePath": "C:\\Users\\berek\\OneDrive\\Рабочий стол\\c#Tutorial\\asp8net\\asp8net\\Bulky.Utility\\Bulky.Utility.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\berek\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.4\\microsoft.aspnetcore.cryptography.internal.7.0.4.nupkg.sha512",
     "C:\\Users\\berek\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.4\\microsoft.aspnetcore.cryptography.keyderivation.7.0.4.nupkg.sha512",

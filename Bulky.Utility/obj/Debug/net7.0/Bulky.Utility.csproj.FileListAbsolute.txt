@@ -10,3 +10,15 @@ C:\Users\berek\OneDrive\Рабочий стол\c#Tutorial\NE8UdemyAspCore\Bulky
 C:\Users\berek\OneDrive\Рабочий стол\c#Tutorial\NE8UdemyAspCore\BulkyWeb\Bulky.Utility\obj\Debug\net7.0\refint\Bulky.Utility.dll
 C:\Users\berek\OneDrive\Рабочий стол\c#Tutorial\NE8UdemyAspCore\BulkyWeb\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.pdb
 C:\Users\berek\OneDrive\Рабочий стол\c#Tutorial\NE8UdemyAspCore\BulkyWeb\Bulky.Utility\obj\Debug\net7.0\ref\Bulky.Utility.dll
+C:\Users\berek\OneDrive\Рабочий стол\c#Tutorial\asp8net\asp8net\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.deps.json
+C:\Users\berek\OneDrive\Рабочий стол\c#Tutorial\asp8net\asp8net\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.dll
+C:\Users\berek\OneDrive\Рабочий стол\c#Tutorial\asp8net\asp8net\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\berek\OneDrive\Рабочий стол\c#Tutorial\asp8net\asp8net\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.AssemblyReference.cache
+C:\Users\berek\OneDrive\Рабочий стол\c#Tutorial\asp8net\asp8net\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berek\OneDrive\Рабочий стол\c#Tutorial\asp8net\asp8net\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfoInputs.cache
+C:\Users\berek\OneDrive\Рабочий стол\c#Tutorial\asp8net\asp8net\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfo.cs
+C:\Users\berek\OneDrive\Рабочий стол\c#Tutorial\asp8net\asp8net\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+C:\Users\berek\OneDrive\Рабочий стол\c#Tutorial\asp8net\asp8net\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.dll
+C:\Users\berek\OneDrive\Рабочий стол\c#Tutorial\asp8net\asp8net\Bulky.Utility\obj\Debug\net7.0\refint\Bulky.Utility.dll
+C:\Users\berek\OneDrive\Рабочий стол\c#Tutorial\asp8net\asp8net\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\berek\OneDrive\Рабочий стол\c#Tutorial\asp8net\asp8net\Bulky.Utility\obj\Debug\net7.0\ref\Bulky.Utility.dll

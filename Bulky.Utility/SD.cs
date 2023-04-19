@@ -19,5 +19,8 @@
 		public const string PaymentStatusApproved = "Approved"; //Статус платежа одобрен
 		public const string PaymentStatusDelayedPayment = "ApprovedForDelayedPayment"; //Статус платежа Отложенный платеж
 		public const string PaymentStatusRejected = "Rejected"; //Статус платежа отклонен
+
+		//Session
+		public const string SessionCart = "SessionShoppingCart";
 	}
 }

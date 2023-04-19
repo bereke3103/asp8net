@@ -1011,11 +1011,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\berek\\OneDrive\\Рабочий стол\\c#Tutorial\\NE8UdemyAspCore\\BulkyWeb\\Bulky.Utility\\Bulky.Utility.csproj",
+      "projectUniqueName": "C:\\Users\\berek\\OneDrive\\Рабочий стол\\c#Tutorial\\asp8net\\asp8net\\Bulky.Utility\\Bulky.Utility.csproj",
       "projectName": "Bulky.Utility",
-      "projectPath": "C:\\Users\\berek\\OneDrive\\Рабочий стол\\c#Tutorial\\NE8UdemyAspCore\\BulkyWeb\\Bulky.Utility\\Bulky.Utility.csproj",
+      "projectPath": "C:\\Users\\berek\\OneDrive\\Рабочий стол\\c#Tutorial\\asp8net\\asp8net\\Bulky.Utility\\Bulky.Utility.csproj",
       "packagesPath": "C:\\Users\\berek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\berek\\OneDrive\\Рабочий стол\\c#Tutorial\\NE8UdemyAspCore\\BulkyWeb\\Bulky.Utility\\obj\\",
+      "outputPath": "C:\\Users\\berek\\OneDrive\\Рабочий стол\\c#Tutorial\\asp8net\\asp8net\\Bulky.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

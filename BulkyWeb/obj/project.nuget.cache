@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SUNE2tsFtAiITIDh88LNHjMDjfTdnm8BUQFz1fP6hDquqmtCtVDzpSqrFm7R9gAhfjc+h1SlAT4uNHUpf8wVeA==",
+  "dgSpecHash": "MtwXS1ZwgpIPLz+mww+s/PkIZ5NaZuwuSPlGCnIPRXr93gyTnccJNOH2k4bwXMxC+1IaO9FjaYXJC3SZgWNpvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\berek\\OneDrive\\Рабочий стол\\c#Tutorial\\NE8UdemyAspCore\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj",
+  "projectFilePath": "C:\\Users\\berek\\OneDrive\\Рабочий стол\\c#Tutorial\\asp8net\\asp8net\\BulkyWeb\\BulkyWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\berek\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\berek\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
