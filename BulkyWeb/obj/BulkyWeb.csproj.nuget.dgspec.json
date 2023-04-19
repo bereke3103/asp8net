@@ -34,6 +34,9 @@
             "projectReferences": {
               "C:\\Users\\berek\\OneDrive\\Рабочий стол\\c#Tutorial\\asp8net\\asp8net\\Bulky.Models\\Bulky.Models.csproj": {
                 "projectPath": "C:\\Users\\berek\\OneDrive\\Рабочий стол\\c#Tutorial\\asp8net\\asp8net\\Bulky.Models\\Bulky.Models.csproj"
+              },
+              "C:\\Users\\berek\\OneDrive\\Рабочий стол\\c#Tutorial\\asp8net\\asp8net\\Bulky.Utility\\Bulky.Utility.csproj": {
+                "projectPath": "C:\\Users\\berek\\OneDrive\\Рабочий стол\\c#Tutorial\\asp8net\\asp8net\\Bulky.Utility\\Bulky.Utility.csproj"
               }
             }
           }
